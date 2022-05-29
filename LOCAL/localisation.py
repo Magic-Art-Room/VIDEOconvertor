@@ -7,7 +7,7 @@ FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
 
 CHANNEL_LINK = "https://t.me/ArkBotz"
 
-SUPPORT_LINK = "https://t.me/ARKBots"
+SUPPORT_LINK = "https://t.me/ARKBotz"
 
 info_text = "Bot Managed by : @ARKBotz"   
 
@@ -29,7 +29,7 @@ help_text = """**v1.4**
 
 source_text = "**Deploy your own bot**"
 
-DEV = "https://t.me/MaheshChauhan"
+DEV = "https://t.me/ArkBotz"
 
 spam_notice = "This bot is hosted on heroku, and hence can just run one process at a time.Spamming the bot or encoding adult videos will lead you to a ban."
 
